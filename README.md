@@ -6,8 +6,7 @@
 ---
 
 ## 🌟 About Me
-I love using **data to make a difference**. I enjoy building smart systems that **analyze, predict, and visualize real-world data**.  
-Curious and always learning new tools and technologies.  
+I am a B.Tech student in Artificial Intelligence and Data Science with a passion for AI, data analysis, and visualization. I work with Python and Power BI to build interactive dashboards and extract meaningful insights. I am always exploring AI projects and real-world data solutions to create a positive impact.
 
 ✨ *“Every dataset has a story — I like finding it.”*
 
@@ -61,15 +60,15 @@ Real-time vehicle detection and speed estimation system using CNNs and OpenCV.
 ---
 
 ## 🏅 Certifications
-- Data Science for Engineers – Infosys Springboard  
-- Database Management System – Infosys Springboard  
+- Introduction to Data Science – (Infosys Springboard)  
+- Database Management System – (Infosys Springboard)  
 - Data Analytics & Visualization Job Simulation – Forage (Accenture)  
 - Power BI Job Simulation – Forage (PwC)
 
 ---
 
-## 🌱 Outside Work
-🧘‍♀️ Yoga | 💬 CSI Club | ☕ Always learning new things  
+## 🌱 Extra Curricular Activities
+🧘‍♀️ Yoga | 💬 CSI Club(Member) | 
 
 *"I believe growth happens when curiosity meets consistency."*
 

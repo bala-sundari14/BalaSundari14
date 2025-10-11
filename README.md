@@ -1,93 +1,91 @@
-# 👋 Hello, I'm Balasundari S!
+# 💫 I'm **Balasundari S!**
 
-🎓 AI & Data Science Student at National Engineering College | 📊 Aspiring Data Analyst | 🧠 AI Enthusiast  
+> 🌟 *Data Science Enthusiast | AI Learner | Power BI Explorer*
 
----
-
-## 💫 About Me
-
-I'm a passionate and dedicated student of Artificial Intelligence and Data Science at **National Engineering College**, with a strong desire to contribute to impactful AI-driven solutions.  
-I thrive in learning environments and enjoy working on real-time data science and AI projects. I believe in continuous growth and using my skills to add value to organizations and communities.
+> I’m a **B.Tech Artificial Intelligence and Data Science** student (2022–2026) at *National Engineering College* with a deep interest in transforming raw data into meaningful insights.  
+> I enjoy coding, analyzing, and visualizing — making data tell powerful stories.  
+>
+> 💡 *My mission:* To turn data into decisions and ideas into innovation.
 
 ---
 
-## 📚 Education
+## 💻 What I Do
 
-**National Engineering College**  
-B.Tech - Artificial Intelligence and Data Science  
+> - 🧠 Build data-driven models and predictive systems  
+> - 📊 Create interactive dashboards using **Power BI**  
+> - 🤖 Develop **AI and ML projects** to solve real-world challenges  
+> - 🔍 Explore data to uncover insights and trends that matter  
 
-**Holy Cross Girls Hr. Sec. School**  
-- SSLC: 73%  
-- HSC: 80.38%
+---
+
+## 🚀 Projects I’m Proud Of
+
+> ### 🔹 **Mock Mate – The AI Mock Interview Bot**
+> An intelligent interview assistant that reads resumes, generates domain-specific questions, and provides AI-based feedback.  
+> 🧠 *Built with:* Python, NLP, Streamlit  
+
+> ### 🔹 **Traffic Flow & Vehicle Count Using Computer Vision**
+> A real-time vehicle detection and speed estimation system using **OpenCV** and **CNNs** for smarter traffic management.  
+> 🚗 *Built with:* Python, Deep Learning, OpenCV  
 
 ---
 
 ## 💼 Experience
 
-- **Accenture** – Data Analytics & Visualization Simulation (Online) – *Oct 2024*  
-- **Forage PWC** – Power BI Job Simulation (Online) – *Oct 2024*
+> **🟢 Data Visualization Intern – Infosys Springboard (Aug 2025 – Present)**  
+> ▪ Created **Power BI dashboards** for real-world datasets  
+> ▪ Improved storytelling through data visualization  
+
+> **🟣 Data Science Intern – Postulate Info Tech (Nov–Dec 2024)**  
+> ▪ Performed **data preprocessing, analysis, and model building**  
+> ▪ Derived actionable insights from complex datasets  
 
 ---
 
-## 🔧 Skills
+## 🎓 Education
 
-- Programming: `Python`, `SQL`
-- Web: `HTML`, `Responsive Web Designing`
-- Data Tools: `Power BI`
-- Libraries: `OpenCV`, `CNN`, `RNN`,`NLP`, `ASR`
+> 🎓 **B.Tech – Artificial Intelligence and Data Science**  
+> *National Engineering College (2022–2026)* | CGPA: 7.0  
+>
+> 🏫 **HSC:** 80% | **SSLC:** 73%
 
 ---
 
-## 💡 Projects
+## 🧩 Skills
 
-### 🔸 Dynamic Traffic Flow & Vehicle Count using Computer Vision
-Developed a real-time vehicle counting and speed detection system using **CNNs** and **OpenCV** for traffic analysis.  
-Incorporated traffic monitoring, alerts, and data visualization for optimization.
-
-### 🔸 Mock-Mate AI – Mock Interview Bot
-Simulated job interviews using **RNN**, **LSTM**, **NLP**, and **ASR**.  
-The bot analyzes resumes, generates questions, scores responses, and provides feedback to improve interview skills.
+> 💻 **Languages:** Python, Java, SQL  
+> 📊 **Visualization:** Power BI  
+> 🌐 **Web:** HTML  
+> 🧠 **Libraries:** Pandas, NumPy, Matplotlib, OpenCV  
+> ⚙️ **Concepts:** Machine Learning, Data Analysis, Computer Vision  
 
 ---
 
 ## 🏅 Certifications
 
-- ✅ Responsive Web Designing *(FreeCodeCamp)*
-- ✅ Database Management System *(Infosys Springboard)*
-- ✅ Introduction to AI *(Infosys Springboard)*
-- ✅ Advanced Learning Algorithms *(Coursera)*
+> - Data Science for Engineers – *Infosys Springboard*  
+> - Database Management System – *Infosys Springboard*  
+> - Data Analytics & Visualization Job Simulation – *Forage (Accenture)*  
+> - Power BI Job Simulation – *Forage (PwC)*  
 
 ---
 
-## 🧑‍💼 Internships
+## 🌱 Beyond Work
 
-- 🧠 **Python Development** – Pinnacle (1 Month, Online)  
-- 📊 **Data Science Intern** – Postulate InfoTech, Thoothukudi (Offline)  
-- 🔍 **Data Science Intern** – Intern IQ (1 Month, Online)
+> ✨ Yoga & mindfulness practitioner  
+> 💬 Active member of the CSI Club  
+> ☕ Lifelong learner with curiosity as my superpower  
 
----
-
-## 🏆 Achievements
-
-- 🥈 Cloud Computing – NPTEL *(65% Elite)*  
-- 🥈 Internet of Things – NPTEL *(75% Elite + Silver)*  
-- 🥈 E-Business – NPTEL *(68% Elite)*  
-- 📘 Data Science for Engineers – NPTEL *(47%)*
+> *I believe every dataset has a story — I love discovering and telling it through data.*
 
 ---
 
-## 🎯 Career Objective
+## 🤝 Let’s Connect
 
-> A passionate data science student with hands-on knowledge in machine learning and data analysis. Aiming to apply skills to solve real-world problems and contribute to meaningful projects in a forward-thinking company.
-
----
-
-## 🤝 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bala-sundari-6361552b9)
-- 📧 Email: balasundaris2003@gmail.com
-- 📱 Phone: +91 81485 91421
+> 📧 **balasundaris2003@gmail.com**  
+> 🔗 [LinkedIn – Bala Sundari](https://www.linkedin.com/in/bala-sundari)  
+> 💻 [GitHub – bala-sundari14](https://github.com/bala-sundari14)
 
 ---
 
-> “Believe in learning, build with passion, and grow with purpose.”  
+> ✨ *“Turning data into decisions and ideas into innovations.”* ✨
